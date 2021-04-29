@@ -144,7 +144,7 @@ const EditTask = () => {
             onClick={triggerLogin}
             disabled={loading}
           >
-            Edit
+            Save
           </Button>
         </div>
       </div>
